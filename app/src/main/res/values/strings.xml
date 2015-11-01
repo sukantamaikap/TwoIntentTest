@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwoIntentExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="heading">Send Message</string>
+    <string name="buttonText">Send Message</string>
+    <string name="title_activity_receieve_message">ReceieveMessageActivity</string>
+    <string name="defaultText">Default Text ....</string>
+</resources>
